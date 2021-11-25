@@ -6,7 +6,7 @@ Data Source: [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs)
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-My goal with this project was to wrangle the WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The actual Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing, and then cleaning was required for more detailed, visually appealing analyses and visualizations.
+My goal with this project was to wrangle the WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The actual Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing, and then cleaning was required for more detailed, visually appealing analyses and visualizations..
 
 
 ### Methods Used
